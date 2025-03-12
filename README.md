@@ -54,16 +54,16 @@ API to manage a simple ecommerce platform. Allows creating, updating, and deleti
 </td>
 
 <td width="50%">
-<h3 align="center">Project Name 2</h3>
+<h3 align="center">Magic-Tricks</h3>
 <div align="center">
 <a href="https://github.com/tu_usuario/repo_proyecto_2" target="_blank">
-<img src="ruta_imagen_2.png" width="400" alt="Project 2">
+<img src="ruta_imagen_2.png" width="400" alt="Magic-Tricks">
 </a>
 <p>
-Brief description of the project. Explains its purpose, main features, and technologies used.
+Application for exit poll counting in university elections, with user creation and preliminary statistics, as well as provisional assignment of representatives.
 </p>
-<p><strong>Technologies:</strong> List of technologies</p>
-<a href="https://github.com/tu_usuario/repo_proyecto_2" target="_blank">
+<p><strong>Technologies:</strong> FastAPI, Reflex, MySQL y MongoDB</p>
+<a href="https://github.com/Dafiron/magic-tricks" target="_blank">
 <img src="https://img.shields.io/badge/CODE-0ABAB5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
